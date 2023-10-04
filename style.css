@@ -4,3 +4,15 @@
     font-family: Microsoft JhengHei;
     list-style: none;
 }
+
+html, body {
+    height: 100%;
+    color: #1fa2fa;
+    background-color: black;
+}
+
+#header {
+    position: relative;
+    height: 5%;
+    background-color: #ffae00fb;
+}
